@@ -1,0 +1,2 @@
+DATASET_NAME = "dataset.csv"
+DATASET_DIR  = DATASET_NAME
